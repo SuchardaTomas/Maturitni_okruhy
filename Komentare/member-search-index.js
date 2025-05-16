@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Komentare","c":"Animal","l":"Animal()","u":"%3Cinit%3E()"},{"p":"Komentare","c":"Animal","l":"eat()"},{"p":"Komentare","c":"Animal","l":"run(double)"},{"p":"Komentare","c":"Animal","l":"sleep()"},{"p":"Komentare","c":"Animal","l":"sound()"}];updateSearchResults();
