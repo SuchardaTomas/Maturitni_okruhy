@@ -22,7 +22,7 @@ public class Animal {
     }
 
     /**
-     * Metoda, která simuluje jídlo zvířete.
+     * Metoda, která simuluje jezení zvířete.
      */
     public void eat() {
         System.out.println("Zvíře jí.");

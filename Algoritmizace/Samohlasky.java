@@ -9,7 +9,7 @@ public class Samohlasky {
         int pocet_samohlasek = 0;
 
         System.out.println("Zadejte větu: ");
-        String veta = sc.nextLine().trim().toLowerCase();
+        String veta = sc.nextLine().toLowerCase();
 
         for (int i = 0; i < veta.length(); i++) {
             char samohlaska = veta.charAt(i);
