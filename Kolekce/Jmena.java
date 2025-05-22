@@ -3,7 +3,6 @@ package Kolekce;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
-import java.util.Stack;
 
 public class Jmena {
     public static void main(String[] args) {
